@@ -1,0 +1,9 @@
+en:
+  custom_startpage_settings_active: "Active?"
+  custom_startpage_settings_active_hint: "Enable to use a custom start page"
+  custom_startpage_settings_controller: "Controller"
+  custom_startpage_settings_controller_hint: "to use for redirection"
+  custom_startpage_settings_action: "Action"
+  custom_startpage_settings_action_hint: "to use for redirection"
+  custom_startpage_settings_id: "ID"
+  custom_startpage_settings_id_hint: "to use for redirection"

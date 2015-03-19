@@ -1,0 +1,23 @@
+<p>
+  <%= label_tag :settings_active, l(:custom_startpage_settings_active) %>
+  <%= check_box_tag "settings[active]", 1, @settings["active"] %>
+  <span class="hint"><%= l(:custom_startpage_settings_active_hint) %></span>
+</p>
+
+<p>
+  <%= label_tag :settings_controller, l(:custom_startpage_settings_controller) %>
+  <%= text_field_tag "settings[controller]", @settings["controller"] %>
+  <span class="hint"><%= l(:custom_startpage_settings_controller_hint) %></span>
+</p>
+
+<p>
+  <%= label_tag :settings_action, l(:custom_startpage_settings_action) %>
+  <%= text_field_tag "settings[action]", @settings["action"] %>
+  <span class="hint"><%= l(:custom_startpage_settings_action_hint) %></span>
+</p>
+
+<p>
+  <%= label_tag :settings_id, l(:custom_startpage_settings_id) %>
+  <%= text_field_tag "settings[id]", @settings["id"] %>
+  <span class="hint"><%= l(:custom_startpage_settings_id_hint) %></span>
+</p>
