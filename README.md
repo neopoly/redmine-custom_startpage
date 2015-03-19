@@ -1,4 +1,18 @@
+[github]: https://github.com/neopoly/redmine-custom_startpage
+[doc]: http://rubydoc.info/github/neopoly/redmine-custom_startpage/master/file/README.md
+[gem]: https://rubygems.org/gems/redmine-custom_startpage
+[gem-badge]: https://img.shields.io/gem/v/redmine-custom_startpage.svg
+[inchpages]: https://inch-ci.org/github/neopoly/redmine-custom_startpage
+[inchpages-badge]: https://inch-ci.org/github/neopoly/redmine-custom_startpage.svg?branch=master&style=flat
+
 # redmine-custom_startpage
+
+[![Gem Version][gem-badge]][gem]
+[![Inline docs][inchpages-badge]][inchpages]
+
+[Gem][gem] |
+[Source][github] |
+[Documentation][doc]
 
 Allows the user to select almost any Redmine page as the initial start page after login.
 
